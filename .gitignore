@@ -1,1 +1,12 @@
-1
+# Flutter/Dart/android generated files
+.dart_tool/
+.idea/
+.vscode/
+build/
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# Firebase configuration (إذا كنت تريد إخفاء ملف التكوين)
+# google-services.json
+ 
