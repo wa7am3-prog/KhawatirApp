@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79012769194",
+    "project_id": "khawatirapp",
+    "storage_bucket": "khawatirapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79012769194:android:a9d326d7dbf1e085470fd3",
+        "android_client_info": {
+          "package_name": "com.username.khawatrapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpt1fYH85MbnjKeMiL7WGQoTHfrD42p3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
